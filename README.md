@@ -11,36 +11,6 @@ A machine learning project to predict cryptocurrency market volatility using his
 
 ---
 
-## 📂 Project Structure
-
-crypto-volatility-project/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   ├── 1_eda.ipynb
-│   ├── 2_feature_engineering.ipynb
-│   ├── 3_model_training.ipynb
-│   └── 4_hyperparameter_tuning.ipynb
-│
-├── app/
-│   └── app.py
-│
-├── reports/
-│   ├── EDA_Report_1.png
-|   ├── EDA_Report.png
-│   ├── HLD.md
-│   ├── LLD.md
-│   ├── Pipeline.md
-│   └── Final_Report.md
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone Repository
